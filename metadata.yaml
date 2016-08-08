@@ -1,0 +1,26 @@
+_repo: Thirty-Years-in-the-Itinerancy_12376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, W. G. (Wesson Gage)
+    alias: Miller, Wesson Gage
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '3244'
+    url: http://www.gutenberg.org/2009/agents/3244
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Wisconsin'
+- !lcc 'F516'
+- !lcsh 'Methodist Episcopal Church. Wisconsin Conference'
+- GITenberg
+title: Thirty Years in the Itinerancy
+url: http://www.gutenberg.org/ebooks/12376
